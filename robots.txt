@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oyohkieng.fushijia360.com/sitemap.xml
